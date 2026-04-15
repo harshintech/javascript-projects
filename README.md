@@ -102,7 +102,7 @@ README.md
 
 ## 🙌 Credits
 
-UI inspiration from **freeCodeCamp.org**
+Mini Project UI inspiration from **freeCodeCamp.org**
 
 ---
 
