@@ -1,39 +1,114 @@
-# Vanilla JS Mini Projects
+# 🚀 JavaScript Projects Collection
 
-A collection of **15 mini-projects** and a **Grocery App** to practice core **JavaScript** skills using **Vanilla JavaScript**. Each project focuses on JavaScript logic, with HTML and CSS inspired from **freeCodeCamp.org** on YouTube.
+A curated collection of **JavaScript projects** built using **Vanilla JavaScript** to strengthen core frontend development skills.
 
-## 📁 Projects Included
+This repository is divided into:
 
-### Mini Projects (1-13)
-01. ✅ Color Flipper  
-02. ✅ Counter  
-03. ✅ Review Carousel  
-04. ✅ Responsive Navbar  
-05. ✅ Sidebar Toggle  
-06. ✅ Modal Popup  
-07. ✅ FAQ/Accordion  
-08. ✅ Menu Filter  
-09. ✅ Video Play/Pause  
-10. ✅ Scroll Event  
-11. ✅ Tabs Component  
-12. ✅ Countdown Timer  
-13. ✅ Lorem Ipsum Generator
-14. ✅ Grocery App
-15. ✅ Wheather App
+- 🔥 **Main Projects (Real-world apps)**
+- 📦 **Mini Projects (Practice & fundamentals)**
 
-### Main Mini Project = (14,15) => **Grocery App, Wheather App**
+---
 
-A Grocery App app that allows users to:
-- **Add**, **edit**, and **delete** grocery items.
-- **Clear** all items.
-- Uses **localStorage** to persist data across page refreshes.
+## 🔥 Main Projects
 
-A Wheather App app that allows users to:
-- **Get Wheather Update By City Name**
+### 🌦️ Weather App
 
-## 🚀 How to Use
+- Search weather by city name
+- Fetch real-time data using API
+- Clean UI with dynamic updates
 
-Clone the repository and open any folder in your browser:
+---
+
+### 🎵 Spotify Clone
+
+- Music player UI inspired by Spotify
+- Play / Pause functionality
+- Interactive design and layout
+
+---
+
+### 🛒 E-Commerce Website
+
+- Product listing UI
+- Add to cart functionality (basic)
+- Focus on layout and user experience
+
+---
+
+## 📦 Mini Projects (JavaScript Practice)
+
+Located inside: **`01-mini-project`**
+
+Includes multiple small projects like:
+
+- Color Flipper
+- Counter
+- Navbar
+- Modal
+- FAQ Accordion
+- Tabs
+- Countdown Timer
+- And more...
+
+👉 These projects focus on:
+
+- DOM Manipulation
+- Event Handling
+- JavaScript Logic Building
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+
+---
+
+## 🎯 Purpose
+
+This repository is part of my **frontend development journey**, focusing on:
+
+- Building strong JavaScript fundamentals
+- Creating real-world UI projects
+- Practicing without frameworks
+
+---
+
+## 🚀 How to Run
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/harshintech/vanilla-js-projects
+git clone https://github.com/harshintech/javascript-projects.git
+```
+
+Then open any project folder and run `index.html` in your browser.
+
+---
+
+## 📌 Folder Structure
+
+```bash
+01-mini-project/
+02-weather-app/
+03-spotify/
+04-e-commerce-website/
+README.md
+```
+
+---
+
+## 🙌 Credits
+
+UI inspiration from **freeCodeCamp.org**
+
+---
+
+## 👨‍💻 Author
+
+**Harsh Gohil**
+Frontend Developer | MERN Stack Developer
+
+---
